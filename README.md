@@ -1,3 +1,16 @@
+
+ 
+ 
+ ![Ragini Pandav (1)](https://github.com/user-attachments/assets/102afcb4-4004-41c4-b85e-4603203739c9)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Hi, I’m Ragini 👋
 
 A Passionate Software Development Engineer in Test !!!

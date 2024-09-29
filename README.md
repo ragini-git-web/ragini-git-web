@@ -16,9 +16,7 @@ A Passionate Software Development Engineer in Test !!!
 📫 How to reach me rpandav.official@gmail.com
 
 
-
-
-🔧 Skills:
+🔧 Skills: 👩🏻‍💻
 
 👉🏻Languages: CoreJava, JavaScript
 

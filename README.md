@@ -3,14 +3,7 @@
  
  ![Ragini Pandav (1)](https://github.com/user-attachments/assets/102afcb4-4004-41c4-b85e-4603203739c9)
 
- 
- 
- 
- 
- 
- 
- 
- 
+
  Hi, I’m Ragini 👋
 
 A Passionate Software Development Engineer in Test !!!
@@ -22,7 +15,14 @@ A Passionate Software Development Engineer in Test !!!
 📫 How to reach me rpandav.official@gmail.com
 
 
+🔧 Skills:
 
+Languages: CoreJava, JavaScript
+Automation Tools: Selenium, Cypress, Postman
+Frameworks: Cucumber TestNG, Page Object Model (POM)
+Testing: Manual Testing, API Testing, Postman & REST Assured
+CI/CD Tools: Jenkins, Git, Maven
+Development Tools: Visual Studio Code, Spring Suite Tool
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/raginipandav/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ragini-pandav-7687a6221)
